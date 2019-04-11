@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-11">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Tosha/Desktop/POI Libraries/commons-collections4-4.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tosha/Desktop/POI Libraries/commons-compress-1.18.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tosha/Desktop/POI Libraries/poi-4.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tosha/Desktop/POI Libraries/poi-excelant-4.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tosha/Desktop/POI Libraries/poi-ooxml-4.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tosha/Desktop/POI Libraries/poi-ooxml-schemas-4.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tosha/Desktop/POI Libraries/poi-scratchpad-4.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tosha/Desktop/POI Libraries/resolver.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tosha/Desktop/POI Libraries/xalan.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tosha/Desktop/POI Libraries/xbean.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tosha/Desktop/POI Libraries/xbean_xpath.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tosha/Desktop/POI Libraries/xbeans.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tosha/Desktop/POI Libraries/xerces.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tosha/Desktop/POI Libraries/xml-apis.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tosha/Desktop/POI Libraries/xmlpublic.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tosha/Desktop/POI Libraries/xsltc.jar"/>
+	<classpathentry kind="lib" path="C:/JavaJars/Selenium/client-combined-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/JavaJars/Selenium/client-combined-3.141.59-sources.jar"/>
+	<classpathentry kind="lib" path="C:/JavaJars/Selenium/libs/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="C:/JavaJars/Selenium/libs/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/JavaJars/Selenium/libs/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="C:/JavaJars/Selenium/libs/okhttp-3.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/JavaJars/Selenium/libs/okio-1.14.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
